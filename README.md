@@ -12,6 +12,13 @@ Welcome to my hands-on portfolio from Google Cybersecurity Certificate.
 - **Compliance:** PCI DSS, GDPR, SOC Type 1 & 2
 - **Outcome:** Identified 8 critical control failures (No encryption, No backups, Overprivileged access to PII) and mapped compliance gaps.
 - **Files:** Summary README + Original Checklist PDF
+### [02] Incident Handler's Journal - Ransomware Attack on Healthcare Clinic
+- **Folder:** /02-incident-handlers-journal
+- **Role:** Incident Handler / SOC Analyst - Documented phishing-based ransomware incident using 5 W's framework
+- **Skills:** Incident Documentation, NIST IR, Phishing Analysis, Ransomware Response
+- **Outcome:** Analyzed attack vector and recommended containment (isolation, evidence preservation, CISA/FBI reporting)
+- **Files:** Summary README + Journal Entry
+
 
 ## 🛠️ Skills & Tools
 NIST CSF, NIST 800-53, Risk Assessment, Access Management, Linux, SQL
